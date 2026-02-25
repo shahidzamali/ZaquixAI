@@ -3,7 +3,10 @@
 Zaquix.AI is a full-stack **AI-powered mock interview platform** built using the **MERN Stack**.
 It helps users practice technical interviews with an intelligent AI system, track performance, and improve interview skills in a real-world environment.
 
----
+----------
+🚀 **Live Demo:**  
+👉 https://zaquixai-client.onrender.com/
+----------
 
 ## 🚀 Features
 
