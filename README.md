@@ -55,7 +55,7 @@ It helps users practice technical interviews with an intelligent AI system, trac
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/zaquix-ai.git
+https://github.com/shahidzamali/ZaquixAI.git
 ```
 
 ### 2️⃣ Install Dependencies
