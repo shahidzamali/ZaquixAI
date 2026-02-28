@@ -1,16 +1,56 @@
-# React + Vite
+🤖 Zaquix.AI — AI Mock Interview Platform
+Zaquix.AI is a full-stack AI-powered mock interview platform built using the MERN Stack. It helps users practice technical interviews with an intelligent AI system, track performance, and improve interview skills in a real-world environment.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Live Demo:
+👉 https://zaquixai-client.onrender.com/
+🚀 Features
+✅ AI-Based Mock Interviews ✅ Secure User Authentication ✅ Credit-Based Interview System ✅ Interview History Tracking ✅ Modern Responsive UI ✅ Dark / Light Theme Support 🌙 ✅ Smooth Animations & Clean UX ✅ Real-Time User Dashboard
 
-Currently, two official plugins are available:
+🛠️ Tech Stack
+💻 Frontend
+React.js
+Tailwind CSS
+Redux Toolkit
+React Router
+Framer Motion
+Axios
+⚙️ Backend
+Node.js
+Express.js
+MongoDB
+JWT Authentication
+REST APIs
+🔐 Authentication
+Secure Login & Logout
+Cookie-based Authentication
+Protected Routes
+User Session Handling
+⚡ Installation & Setup
+1️⃣ Clone Repository
+https://github.com/shahidzamali/ZaquixAI.git
+2️⃣ Install Dependencies
+Frontend
+cd client
+npm install
+npm run dev
+Backend
+cd server
+npm install
+npm start
+🌍 Environment Variables
+Create .env file inside server folder:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+PORT=8000
+MONGODB_URL=add your mongodb 
+OPENROUTER_API_KEY=add your openrouter key
+RAZORPAY_KEY_ID=add your razorpay key id
+RAZORPAY_KEY_SECRET=add your razorpay key secret
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎯 Future Improvements
+AI Voice Interview
+Resume Analyzer
+Performance Analytics
+Interview Feedback System
+Multi-language Support
+⭐ Support
+If you like this project, please ⭐ star the repository and share it!
